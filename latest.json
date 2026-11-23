@@ -1,5 +1,5 @@
 {"apps":[
  {"label":"G03 Agent","package":"muse.g03agent","versionName":"3.4.1","versionCode":13},
- {"label":"G03ホーム","package":"muse.g03launcher","versionName":"1.8","versionCode":9},
+ {"label":"G03ホーム","package":"muse.g03launcher","versionName":"1.9","versionCode":9},
  {"label":"バージョン確認","package":"muse.g03versions","versionName":"1.3","versionCode":4}
 ]}
